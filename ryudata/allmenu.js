@@ -1,6 +1,6 @@
 exports.allmenu = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @achel.haid_
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -158,11 +158,11 @@ Instagram : @Fandyyy._
 ⚘👾 ${prefix}handhold
 
 *🔞 NSFW MENU*
-⚘👾 ${prefix}blowjob
-⚘👾 ${prefix}hentai
-⚘👾 ${prefix}yuri
-⚘👾 ${prefix}neko
-⚘👾 ${prefix}cum
+⚘👾 ${prefix}blowjob (Error)
+⚘👾 ${prefix}hentai (Error)
+⚘👾 ${prefix}yuri (Error)
+⚘👾 ${prefix}neko (Error)
+⚘👾 ${prefix}cum (Error)
 
 *🎨 MAKER MENU*
 ⚘👾 ${prefix}toimage
