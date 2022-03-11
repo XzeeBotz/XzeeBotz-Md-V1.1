@@ -2,11 +2,10 @@
 
 // UCAPAN WELCOME
 exports.welkam = () => {
-	return `Intro Dulu Yuk Biar Keren 🤙
+	return `Welcome Di Grub Kami🤙
+Tetap Patuhi Rules Yang Di Grub Ini Ya🤙
+Jangan Lupa Liat Desk Nya🤙
 
-📛 Nama : 
-🔞 Umur :
-🏙️ Askot :
 
 Semoga Kamu Senang Berada Disini
 Serta Jangan Lupa Untuk Membaca
